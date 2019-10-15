@@ -6,8 +6,8 @@ weibo reco
 进行测试
 
 时间复杂度：
-/postWeibo: n
-/suggest: n^2
+- /postWeibo: n
+- /suggest: n^2
 
 使用nginx和gunicorn进行部署
 排序也做了
